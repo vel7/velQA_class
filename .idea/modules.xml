@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ququTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ququTest.iml" group="ququTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ququTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ququTest_main.iml" group="ququTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ququTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ququTest_test.iml" group="ququTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeatTest.iml" filepath="$PROJECT_DIR$/.idea/modules/repeatTest.iml" group="repeatTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeatTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repeatTest_main.iml" group="repeatTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeatTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repeatTest_test.iml" group="repeatTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webTest.iml" filepath="$PROJECT_DIR$/.idea/modules/webTest.iml" group="webTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webTest_main.iml" group="webTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webTest_test.iml" group="webTest" />
+    </modules>
+  </component>
+</project>

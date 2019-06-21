@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="repeatTest:main" external.linked.project.path="$MODULE_DIR$/../../repeatTest" external.root.project.path="$MODULE_DIR$/../../repeatTest" external.system.id="GRADLE" external.system.module.group="TelRAn" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../ququTest" rootProjectPath="$MODULE_DIR$/../../ququTest" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../repeatTest/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../repeatTest/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../repeatTest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../repeatTest/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

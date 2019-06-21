@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ququTest_main" target="1.8" />
+      <module name="ququTest_test" target="1.8" />
+      <module name="repeatTest_main" target="1.8" />
+      <module name="repeatTest_test" target="1.8" />
+      <module name="seleniumTest_main" target="1.8" />
+      <module name="seleniumTest_test" target="1.8" />
+      <module name="webTest_main" target="1.8" />
+      <module name="webTest_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
