@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5682ea9f-ff77-44ee-aac5-9a8f71a6ce64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ququTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ququTest_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ququTest_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/repeatTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/repeatTest_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/repeatTest_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/webTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/webTest_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/webTest_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ququTest/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ququTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ququTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ququTest/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ququTest/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ququTest/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeatTest/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeatTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeatTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeatTest/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeatTest/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeatTest/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/out/test/classes/com/telran/qa20/OpenGoogleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webTest/src/test/java/com/telran/qa20/OpenGoogleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5682ea9f-ff77-44ee-aac5-9a8f71a6ce64" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/seleniumTest/.gradle/" />
     <ignored path="$PROJECT_DIR$/seleniumTest/build/" />
@@ -136,7 +74,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webTest/src/test/java/com/telran/qa20/OpenGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="425">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -184,55 +122,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules/repeatTest.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/repeatTest_test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/repeatTest_main.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/webTest.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/webTest_test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/webTest_main.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/ququTest.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/ququTest_test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/ququTest_main.iml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -269,6 +166,13 @@
             </path>
             <path>
               <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -284,6 +188,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ToolsQA\velQA_class\webTest" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -401,12 +310,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 35m 33s.xml">
-      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 43m 03s.xml">
-      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 43m 47s.xml">
       <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
     </history-entry>
@@ -431,11 +334,18 @@
     <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 12h 00m 28s.xml">
       <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 12h 03m 31s.xml">
+      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 12h 04m 42s.xml">
+      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -460,7 +370,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info active="true" anchor="right" id="Gradle" order="5" sideWeight="0.49760765" visible="true" weight="0.25075987" />
+      <window_info anchor="right" id="Gradle" order="5" sideWeight="0.49760765" visible="true" weight="0.25075987" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -523,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webTest/src/test/java/com/telran/qa20/OpenGoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
