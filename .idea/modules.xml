@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeatTest.iml" filepath="$PROJECT_DIR$/.idea/modules/repeatTest.iml" group="repeatTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeatTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repeatTest_main.iml" group="repeatTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeatTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repeatTest_test.iml" group="repeatTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloWeb.iml" group="trelloWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloWeb_main.iml" group="trelloWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloWeb_test.iml" group="trelloWeb" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/webTest.iml" filepath="$PROJECT_DIR$/.idea/modules/webTest.iml" group="webTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/webTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webTest_main.iml" group="webTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/webTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webTest_test.iml" group="webTest" />

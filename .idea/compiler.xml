@@ -8,6 +8,8 @@
       <module name="repeatTest_test" target="1.8" />
       <module name="seleniumTest_main" target="1.8" />
       <module name="seleniumTest_test" target="1.8" />
+      <module name="trelloWeb_main" target="1.8" />
+      <module name="trelloWeb_test" target="1.8" />
       <module name="webTest_main" target="1.8" />
       <module name="webTest_test" target="1.8" />
     </bytecodeTargetLevel>
